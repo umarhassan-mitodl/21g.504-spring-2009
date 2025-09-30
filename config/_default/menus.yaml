@@ -1,0 +1,47 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 1a331688-3f3f-4969-caf9-81f937ef25ba
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 187e7533-c281-0af0-f46d-882e0606564b
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 20539a8a-0070-a3dc-0491-23486d993904
+  name: Lesson 17
+  pageRef: /pages/lesson-17/
+  weight: 30
+- identifier: 8b541784-586f-4e65-3cee-4ca3df5330c8
+  name: Lesson 18
+  pageRef: /pages/lesson-18/
+  weight: 40
+- identifier: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
+  name: Lesson 19
+  pageRef: /pages/lesson-19/
+  weight: 50
+- identifier: 1658c715-de8b-1752-598d-a7d8228f0109
+  name: Lesson 20
+  pageRef: /pages/lesson-20/
+  weight: 60
+- identifier: bffa1146-720a-039c-9aec-636a7a7ab4cd
+  name: Lesson 21
+  pageRef: /pages/lesson-21/
+  weight: 70
+- identifier: ce845a14-e942-541d-7d56-a411e07e0465
+  name: Lesson 22
+  pageRef: /pages/lesson-22/
+  weight: 80
+- identifier: 86e1cf31-96ab-bfff-fa96-0974bc7eaab4
+  name: Exams
+  pageRef: /pages/exams
+  weight: 90
+- identifier: 5b915254-f803-29a8-2186-003451d64012
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 100
+- identifier: cf5009c0-1123-3732-8ee8-3a9bdce2432c
+  name: Related Resources
+  pageRef: /pages/related-resources/
+  weight: 110

@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "legacy_uid": "1952745c-429c-6792-4f08-72bc68ae92bb",
+  "instructors": {
+    "content": [
+      "fe43b84c-d16e-9e7e-532a-521e3865ef5b",
+      "c664292d-dbe9-aa20-6c7e-01252c3c1158",
+      "a921a4b1-77e4-aa77-8628-5eb97b73d549"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0a0807a6-6df9-2a8d-4241-bdfa5a8ce66d",
+    "website": "21g-504-japanese-iv-spring-2009"
+  },
+  "course_title": "Japanese IV",
+  "hide_download": true,
+  "course_description": "This course covers _Japanese: The Spoken Language_ lessons 17 through 22. It will further develop the four basic skills, speaking, listening, reading and writing, that students have acquired through Japanese I, II and III courses, with emphasis on oral communication skills in various practical situations. Students will learn approximately 100 Kanji characters in this course. Sessions in English cover grammar explanation, socio-cultural information and other important issues for using the language, while Japanese lessons focus on the actual use of the language, integrating students' prior knowledge with newly learned patterns, and communicating within the frame given in the class.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.504",
+  "course_image_thumbnail": {
+    "content": "7e8498ce-e03b-880b-9711-e1887085bd2c",
+    "website": "21g-504-japanese-iv-spring-2009"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Demonstration Audio",
+    "Demonstration Videos"
+  ],
+  "site_uid": "9224c295-e757-4624-9867-a2239ac182d9",
+  "site_short_id": "21g.504-spring-2009",
+  "site_url_path": "courses/21g-504-japanese-iv-spring-2009",
+  "title": "Course Metadata"
+}
