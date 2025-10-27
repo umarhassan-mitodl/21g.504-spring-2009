@@ -183,7 +183,7 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 
 {{< tableclose >}}
 
-[Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
+{{% resource_link "bd5e6349-c5d0-448c-8cd3-df7db83597d1" "Photographic Vocabulary Aid: Main" %}}
 
   
  

@@ -4,8 +4,6 @@ description: Photograph of a river accompanying a lesson on Japanese vocabulary.
 file: /courses/21g-504-japanese-iv-spring-2009/f9783049cf2ec6ec0557d6145762f19c_river.jpg
 file_size: 19535
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

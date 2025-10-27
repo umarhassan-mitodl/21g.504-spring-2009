@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides miscellaneous links of interest to those studying
   Japanese language and culture or traveling in Japan.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -15,16 +13,16 @@ video_metadata:
   youtube_id: null
 ---
 
-[Google in Japanese](http://www.google.co.jp/)
+{{% resource_link "96afef27-b0f6-4fe3-b49a-cf6de5a1014c" "Google in Japanese" %}}
 
-[Yahoo in Japanese](http://www.yahoo.co.jp/)
+{{% resource_link "280e2a3b-5487-4160-b879-4dc581d71814" "Yahoo in Japanese" %}}
 
-[Weather](http://www.tenki.jp/)
+{{% resource_link "a506d2f0-3145-4d46-9686-177e92575dfd" "Weather" %}}
 
-[Amusing MashiMaro Flash Movies](http://www.welaf.com/funny-picture-1326.html)
+{{% resource_link "8b450f38-4b87-4006-ae60-121ad8f7ff5d" "Amusing MashiMaro Flash Movies" %}}
 
-[EMedicine.com](http://emedicine.com/)
+{{% resource_link "e1d52688-07e4-4363-83ab-35599094ddff" "EMedicine.com" %}}
 
-[MayoClinic.com](http://www.mayoclinic.com/)
+{{% resource_link "1273e1e5-9c5e-4931-b569-d3a8dcb7e01e" "MayoClinic.com" %}}
 
-[Family Practice Notebook](http://www.fpnotebook.com/)
+{{% resource_link "c6dab693-4a0b-4a62-a4c1-a154d1cd94ae" "Family Practice Notebook" %}}

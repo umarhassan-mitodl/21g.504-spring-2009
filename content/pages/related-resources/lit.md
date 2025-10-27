@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides links of interest to those studying Japanese language
   and culture or traveling in Japan.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -15,16 +13,16 @@ video_metadata:
   youtube_id: null
 ---
 
-[Classical Japanese Network](https://web.archive.org/web/20051231235550/http://www.classical-japanese.net/)
+{{% resource_link "049dfdf0-1b2e-42f9-a5ec-1d3edb81d9bc" "Classical Japanese Network" %}}
 
-[Classical Japanese Texts](http://etext.lib.virginia.edu/japanese/)
+{{% resource_link "23a6f3d5-ad1d-4143-b960-10b7bf1432d5" "Classical Japanese Texts" %}}
 
-[The Bible in Japanese](http://www.biblica.com/bibles/japanese/index.php)
+{{% resource_link "9312c21d-15fd-4f30-bf93-c23038128ce1" "The Bible in Japanese" %}}
 
-[Kinokuniya](http://www.kinokuniya.co.jp/)
+{{% resource_link "0fd9edb4-7227-4a79-aeb3-e4d2738e7b9b" "Kinokuniya" %}}
 
-[Zakka Shop](http://www.zakkacorp.com/)
+{{% resource_link "e4d3302e-645e-4f08-948c-0e235d7a8a20" "Zakka Shop" %}}
 
-[Sasuga](http://www.sasugabooks.com/)
+{{% resource_link "8af7da09-06b1-4d1f-a3a2-f53b4d0e760c" "Sasuga" %}}
 
-[Amazon](http://www.amazon.co.jp/)
+{{% resource_link "7fd47f1f-9bf2-4564-b9b9-4352f76d3510" "Amazon" %}}

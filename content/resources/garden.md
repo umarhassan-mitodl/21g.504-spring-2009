@@ -4,8 +4,6 @@ description: Photograph of a garden accompanying a lesson on Japanese vocabulary
 file: /courses/21g-504-japanese-iv-spring-2009/b37f76b94ef652b2919a95a1cae0a2cb_garden.jpg
 file_size: 18949
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

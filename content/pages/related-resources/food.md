@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides links to Japanese recipes and food pages.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -14,50 +12,50 @@ video_metadata:
   youtube_id: null
 ---
 
-[Kumi's Japanese Recipes](http://web.archive.org/web/20021212130408/http://www1.ocn.ne.jp/~japonism/recipe.html)
+{{% resource_link "093f486a-f4fb-4b00-82f3-b05230e5f28c" "Kumi's Japanese Recipes" %}}
 
-[Star Chefs: Nobu Matsuhisa](http://www.starchefs.com/NMatsuhisa/html/recipe_menu.shtml)
+{{% resource_link "254d9781-0cab-4446-ab8b-11e3c7ecad54" "Star Chefs: Nobu Matsuhisa" %}}
 
-[Osaka & Kanazawa Local Cuisine](http://www.tsuji.ac.jp/hp/jpn/jp_e/index.html)
+{{% resource_link "b7468a6f-2f9b-4f3e-806e-860e6aa63672" "Osaka & Kanazawa Local Cuisine" %}}
 
-[RecipeSource](http://www.recipesource.com/ethnic/asia/japanese/indexall.html)
+{{% resource_link "3f6a03f9-4cf8-419d-838e-f2abdf7e00b2" "RecipeSource" %}}
 
-[Bento.com](http://www.bento.com/)
+{{% resource_link "3f9eef91-abb1-4531-84e6-df22b83cea47" "Bento.com" %}}
 
-[Bob & Angie's Recipes](http://www.bob-an.com/recipe/English/index_e.html)
+{{% resource_link "bdc038e3-961c-40e7-8dff-53f828ed2b3b" "Bob & Angie's Recipes" %}}
 
-[Amazake](http://web.archive.org/web/20140729045803/http://www.grainaissance.com/recipes.html)
+{{% resource_link "2a7c2f34-5126-4d17-b4d0-284926960e3f" "Amazake" %}}
 
-[Agedashi-dofu](http://web.archive.org/web/20040217103354/http://jin.jcic.or.jp/nipponia/nipponia13/bon.html)
+{{% resource_link "bfbc2cf7-84f1-4429-9491-0ac46984ebf1" "Agedashi-dofu" %}}
 
-[Japanese Kitchen](http://www.theblackmoon.com/Jfood/food1.html)
+{{% resource_link "b73a4ef4-a762-4ab7-8750-38012c08c388" "Japanese Kitchen" %}}
 
-[Emiko Kaminuma's Cooking Time](http://asahi.co.jp/oshaberi/)
+{{% resource_link "ab9db2ae-5c0f-4845-9ca8-de6e505c19b3" "Emiko Kaminuma's Cooking Time" %}}
 
-[Kaiseki Cuisine](http://www.amacord.com/tea/)
+{{% resource_link "7cb9bfe5-d640-442c-b2e8-57f111929b5b" "Kaiseki Cuisine" %}}
 
-[Mom's Home Cooking](http://www.nsknet.or.jp/~tomi-yasu/index_e.html)
+{{% resource_link "a91fcdbe-042c-45e3-a776-956cfbb78c10" "Mom's Home Cooking" %}}
 
-[Kagawa Local Cuisine](http://web.archive.org/web/20051125090710/http://www.pref.kagawa.jp/eizo/vol003/en/index.htm)
+{{% resource_link "1eeff80e-8066-4982-8472-ca18b8d123cf" "Kagawa Local Cuisine" %}}
 
-[Okinawa Local Cuisine](http://web.archive.org/web/20110913060256/http://okinawa.com/content/blogcategory/34/71/lang,en/)
+{{% resource_link "969052de-d311-4751-a36a-ddb37a8789d1" "Okinawa Local Cuisine" %}}
 
-[Osaka Okonomiyaki](http://markun.cs.shinshu-u.ac.jp/hobby/okonomi/index-e.html)
+{{% resource_link "decfb4e6-c324-41ad-b845-611b2db7655b" "Osaka Okonomiyaki" %}}
 
-[Akita](http://web.archive.org/web/20070618030928/http://www.media-akita.or.jp/akita-shoku/akita-shokuE.html)
+{{% resource_link "36aa441f-3d05-4dbc-929b-b5365e29bb5e" "Akita" %}}
 
-[Sushi a la Carte](http://www.sushialacarte.com/)
+{{% resource_link "98f0960c-71de-4055-8ee7-226714370e62" "Sushi a la Carte" %}}
 
-[SushiLinks](http://www.sushilinks.com/)
+{{% resource_link "ae9225a1-f0aa-4006-a3f7-91f5e84e1223" "SushiLinks" %}}
 
-[The Sushi Bar](http://thesushibar.com/ssushi_pictures.shtml)
+{{% resource_link "ff2242e3-5649-4262-b2bf-4cdd95ed6bb7" "The Sushi Bar" %}}
 
-[Minamoto Kitchoan](http://www.kitchoan.com/)
+{{% resource_link "b4157f9c-88fe-4eda-8963-fcf73dfbb76a" "Minamoto Kitchoan" %}}
 
-[Maruwa Market](http://www.maruwa.com/)
+{{% resource_link "cac88ea5-6e6f-4488-9d8f-bde02d276588" "Maruwa Market" %}}
 
-[Mitsuwa](http://www.mitsuwa.com/)
+{{% resource_link "281f71f6-e869-452f-ac0d-30ce9524ea73" "Mitsuwa" %}}
 
-[Tokyo Food Page: Guide to Japanese Cuisine and Eating in Tokyo](http://www.bento.com/tokyofood.html)
+{{% resource_link "ad2bdebf-c16d-4bf9-b668-362237fdd62c" "Tokyo Food Page: Guide to Japanese Cuisine and Eating in Tokyo" %}}
 
-[Tsukiji Market](http://www.tsukiji-market.or.jp/)
+{{% resource_link "462361e8-876d-4742-9329-42afa862e057" "Tsukiji Market" %}}

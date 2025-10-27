@@ -12,10 +12,10 @@ video_metadata:
   youtube_id: null
 ---
 
-[Japan National Tourist Organization](http://www.jnto.go.jp/map/eng_map/)
+{{% resource_link "32881168-a603-4f52-b384-99004a0e783e" "Japan National Tourist Organization" %}}
 
-[Wikipedia](http://commons.wikimedia.org/wiki/File:Regions_and_Prefectures_Japan.png)
+{{% resource_link "6bfbfb9f-77e2-4722-a020-833b77a5ab5a" "Wikipedia" %}}
 
-[Japan Information Network](http://web.archive.org/web/20040202081417/http://jin.jcic.or.jp/region/)
+{{% resource_link "09d009ca-9bc2-40bd-a631-dd79a118dfe8" "Japan Information Network" %}}
 
-[Sunsite](http://web.archive.org/web/20060718052826/http://sunsite.sut.ac.jp/asia/japan/maps/)
+{{% resource_link "f59e26a5-296d-411d-96dd-0e42e7417abe" "Sunsite" %}}

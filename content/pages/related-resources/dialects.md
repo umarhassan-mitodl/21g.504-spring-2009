@@ -12,24 +12,24 @@ video_metadata:
   youtube_id: null
 ---
 
-[Map of Japanese Dialects](http://www.nihongoresources.com/language/dialects/kansaiben.html)
+{{% resource_link "63aacc2a-e256-449a-a12e-eb4e97a937b6" "Map of Japanese Dialects" %}}
 
-[Shingu-sensei's Kansai Dialect Self-study Site](http://web.mit.edu/kansai/)
+{{% resource_link "ecd180d6-6afc-4733-8164-854359aa62b2" "Shingu-sensei's Kansai Dialect Self-study Site" %}}
 
-[Chiba](http://web.archive.org/web/20060303094253/http://www.town.chikura.chiba.jp/page/dialect/dialect.html)
+{{% resource_link "53aeae10-03db-4973-8c67-348bfed2324a" "Chiba" %}}
 
-[Kochi](http://web.archive.org/web/20070408034906/http://www.baobab.or.jp/~stranger/mypage/tosaben.htm)
+{{% resource_link "fec31071-04b6-43a8-96d0-fb90ffc06c3e" "Kochi" %}}
 
-[Kumamoto](http://web.archive.org/web/20080213072409/http://kumamotoben.jp/)
+{{% resource_link "4118af45-f60d-4810-8451-ded01cd4b4e3" "Kumamoto" %}}
 
-[Kyoto](http://www.kyoto-np.co.jp/kp/ojikoji/kotoba/kotoba_e.html)
+{{% resource_link "86c9e8cf-d656-4da3-8b22-dfce1814c7f1" "Kyoto" %}}
 
-[Nagasaki](http://www.archive.org/details/nagasaki)
+{{% resource_link "c0edae2b-cabd-4eb8-b9b2-07fed02aea8c" "Nagasaki" %}}
 
-[Nagoya](http://mediazone.tcp-net.ad.jp/MISO/EBITENW/NB/)
+{{% resource_link "c6793288-f57a-4861-8b78-7a89677ded90" "Nagoya" %}}
 
-[Nosaka](http://www.kashiwakuma.com/nosaka/dialect-e.htm)
+{{% resource_link "3768b666-5f60-4c11-8ce3-99cbc27fbd71" "Nosaka" %}}
 
-[Okinawa](http://www.angelfire.com/tx/FSIK/hogen.html) [Okinawa](http://web.archive.org/web/20040220125741/http://nvokinawa.net/facesvoices/hougen/index.html)
+{{% resource_link "402df4a4-3cae-4893-a3ba-cd67e3922072" "Okinawa" %}} {{% resource_link "6194444e-d6dc-4343-8268-cdbb9d97e22e" "Okinawa" %}}
 
-[Osaka](http://search.coara.or.jp/kensaku/coara/index.html) [Osaka](http://web.archive.org/web/20040202023129/http://www.yorosiku.net/yan/osaka.html)
+{{% resource_link "a9c89ab5-ac47-4ca1-8b4f-c03ae9e12494" "Osaka" %}} {{% resource_link "216ae064-a14e-4523-8b13-3ec82785bce7" "Osaka" %}}

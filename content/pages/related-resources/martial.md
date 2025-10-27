@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides links related to martial arts.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -14,12 +12,12 @@ video_metadata:
   youtube_id: null
 ---
 
-[The Book of Five Rings](http://www.samurai.com/5rings/)
+{{% resource_link "56d120e7-1ae1-4f0b-85c8-708a3842688f" "The Book of Five Rings" %}}
 
-[Martial Arts Links](http://www.freeweb.hu/kihon/cimek2.html)
+{{% resource_link "80d4c2e7-1030-4498-9956-04c452428dd4" "Martial Arts Links" %}}
 
-[Acrobatic Trick Karate Moves](http://www.neokarate.net/lingo/)
+{{% resource_link "7890a74f-a429-41ae-a556-d9295f2f4b89" "Acrobatic Trick Karate Moves" %}}
 
-[Noble House Kenjutsu Shinkage Ryu](http://web.archive.org/web/20080918084616/http://members.shaw.ca/jlyall/noblehouse/sword_tech/)
+{{% resource_link "eae99454-b28a-4ac7-b5fd-29b40d9e4627" "Noble House Kenjutsu Shinkage Ryu" %}}
 
-[NPS Cutlery Firm](http://www.n-p-s.net/)
+{{% resource_link "3a245754-9f85-43da-9ce6-fc5436485e70" "NPS Cutlery Firm" %}}

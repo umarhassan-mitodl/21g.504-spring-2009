@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides resources helpful for review and practice during
   the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -14,7 +12,7 @@ video_metadata:
 
 These resources may be helpful for review and practice during the course.
 
-_Japanese: The Spoken Language_ [Audio Exercises](http://languagelab.it.ohio-state.edu/)
+_Japanese: The Spoken Language_ {{% resource_link "d0ab6142-6f3b-46ba-8318-7f245fad854d" "Audio Exercises" %}}
 
 [Introduction to Hiragana](/courses/res-21g-01-kana-spring-2010/pages/hiragana)
 

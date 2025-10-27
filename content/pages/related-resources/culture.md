@@ -12,42 +12,42 @@ video_metadata:
   youtube_id: null
 ---
 
-[47 Prefectures of Japan](http://web.archive.org/web/20070622022404/http://www.admillion.com/j-guide/index-p.htm)
+{{% resource_link "9e039fae-93ec-4209-9750-947ed6f35c82" "47 Prefectures of Japan" %}}
 
-[Explore Japan](http://web.archive.org/web/20080602104102/http://www.explorejapan.com/)
+{{% resource_link "9402f274-2661-45cc-8298-d281be06e288" "Explore Japan" %}}
 
-[Library of Congress: Portals to the World - Japan](http://www.loc.gov/rr/international/asian/japan/japan.html)
+{{% resource_link "e5c5c24e-4da6-467c-8ec6-12d17309f713" "Library of Congress: Portals to the World - Japan" %}}
 
-[Japan Information Network](http://nippon-jin.com/)
+{{% resource_link "ee0ef3db-f643-4001-836b-b64126177130" "Japan Information Network" %}}
 
-[Japan FAQ: Know Before You Go](http://www.thejapanfaq.com/)
+{{% resource_link "f837b30e-6b63-45aa-8b3f-a3f610618f22" "Japan FAQ: Know Before You Go" %}}
 
-[Quirky Japan Homepage](http://www.quirkyjapan.or.tv/)
+{{% resource_link "cea98bb8-61ae-4823-9a7a-f4963985d032" "Quirky Japan Homepage" %}}
 
-[Information & Pictures of Japan](http://ikjeld.com/)
+{{% resource_link "147cea09-6802-4539-bce7-b75daff21334" "Information & Pictures of Japan" %}}
 
-[Key Aspects of Japan](https://web.archive.org/web/20060113101444/http://www.japanlink.co.jp/ka/home.html)
+{{% resource_link "f6c091b3-1520-4582-addf-3fc85497878b" "Key Aspects of Japan" %}}
 
-[TokyoQ: Life in the Megapolis](http://www.tokyoq.com/)
+{{% resource_link "b9aec8f0-e9ca-46c1-a91f-679746fa6e98" "TokyoQ: Life in the Megapolis" %}}
 
-[Mokona's Japan Site](http://mokona.land.free.fr/index_eng.htm)
+{{% resource_link "339a078c-98e3-4560-9b83-cc55634e3a45" "Mokona's Japan Site" %}}
 
-[Joseph Wu's Origami Page](http://www.origami.vancouver.bc.ca/)
+{{% resource_link "2f7783b1-9764-44bd-b963-876ea06358c1" "Joseph Wu's Origami Page" %}}
 
-[Kimono Obi Tying](https://web.archive.org/web/20130501231101/http://www.kikimimi.ne.jp/www/sortie/Ekimono.htm)
+{{% resource_link "9708a5f5-e241-42b9-91fc-b778e601f70b" "Kimono Obi Tying" %}}
 
-[Many Links on Japanese Culture](http://www.sabotenweb.com/bookmarks/culture.html)
+{{% resource_link "0a50c282-dcae-4715-86c5-9d338aaf9ce6" "Many Links on Japanese Culture" %}}
 
-[Super Links Page](http://web.archive.org/web/20070110223704/http://ww2.lafayette.edu/~stocktoj/home/japanl.html)
+{{% resource_link "e0a1a3b2-4134-486d-b5e0-89024784230c" "Super Links Page" %}}
 
-[Jim Breen's Japan Page](http://nihongo.monash.edu/japanese.html)
+{{% resource_link "af323f12-1510-4cfb-9cea-2d18aabcd472" "Jim Breen's Japan Page" %}}
 
-[Onsens](http://www.asahi-net.or.jp/~ue3t-cb/index_e/spa_e/spalist_e.htm)
+{{% resource_link "b9bcad37-018a-4ad4-a4b1-a4994d4e8e36" "Onsens" %}}
 
-[Daisetsuzan National Park](http://www.daisetsuzan.or.jp/)
+{{% resource_link "24414fbf-f0b5-429c-aae8-18f897a5195a" "Daisetsuzan National Park" %}}
 
-[Kyoto Prefecture](http://www.pref.kyoto.jp/index_e.html)
+{{% resource_link "2ff3db1c-afea-4f3f-a90d-aea9cfe5b625" "Kyoto Prefecture" %}}
 
-[Google Websearch: Prefectures](https://productforums.google.com/forum/#!category-topic/websearch/finding-stuff-on-google/_9yJrzRf9J8)
+{{% resource_link "b2e984d3-1f3d-40a8-80c0-d435e242f35c" "Google Websearch: Prefectures" %}}
 
-[Real Life in Japan](http://web.archive.org/web/20070112012043/http://home.att.ne.jp/delta/hiroakabuchi/)
+{{% resource_link "c05f6083-a4af-4e13-983a-8954e29d3a0d" "Real Life in Japan" %}}

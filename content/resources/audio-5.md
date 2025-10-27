@@ -5,8 +5,6 @@ description: Icon representing a speaker, used as a navigational element on a co
 file: /courses/21g-504-japanese-iv-spring-2009/f43bdeba8f853aed8f7546f0e759927a_audio.jpg
 file_size: 444
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

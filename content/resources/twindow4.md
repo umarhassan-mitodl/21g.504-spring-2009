@@ -4,8 +4,6 @@ description: Photograph of a sign accompanying a lesson on Japanese vocabulary.
 file: /courses/21g-504-japanese-iv-spring-2009/912752121bea2f300556777f0b608b85_tWindow4.jpg
 file_size: 19374
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

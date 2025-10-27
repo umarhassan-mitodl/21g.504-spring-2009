@@ -4,8 +4,6 @@ description: Photograph of a card and two pictures accompanying a lesson on Japa
 file: /courses/21g-504-japanese-iv-spring-2009/90de44525ebf2df2b25af0251a7e942d_cardPicsThumb.jpg
 file_size: 17557
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: Photograph of two dogs accompanying a lesson on Japanese vocabulary
 file: /courses/21g-504-japanese-iv-spring-2009/9e76fbaf25d27100588b3c6b6a83131f_corgi.jpg
 file_size: 21297
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

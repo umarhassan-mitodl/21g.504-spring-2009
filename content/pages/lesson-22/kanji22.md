@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 22
@@ -14,7 +12,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by [Prof. Saeko Komori](http://www.mokosystem.com/komori/wwkanji2k/wwkanji2056.html) of [Chubu University](http://www.chubu.ac.jp/). Please see the [JP Net Kanji Project](http://web.mit.edu/jpnet/kanji-project/index.html) for more details.
+Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by {{% resource_link "a2e99b2e-56f8-4fb5-aa1f-4934b895d1a8" "Prof. Saeko Komori" %}} of {{% resource_link "f2b5b67b-bd80-4116-b2ad-4d4f8878df55" "Chubu University" %}}. Please see the {{% resource_link "40b25c6d-5105-44f3-a1c3-b49b373e42b8" "JP Net Kanji Project" %}} for more details.
 
 In the following definitions, **on** (Chinese-based) readings are represented by katakana, and by capital romaji letters; **kun** (native Japanese-based) readings are represented by hiragana, and by lower-case romaji letters. This is a common dictionary convention, and does not have any bearing on meaning.
 

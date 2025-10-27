@@ -4,8 +4,6 @@ description: Audio recording demonstrating Japanese pronunciation.
 file: /courses/21g-504-japanese-iv-spring-2009/4cb64299c77839c13c9ce4cf3d2d4896_Lesson20A2.mp3
 file_size: 62441
 file_type: audio/mpeg
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

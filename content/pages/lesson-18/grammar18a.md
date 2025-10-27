@@ -20,7 +20,7 @@ video_metadata:
 
 [Miscellaneous Notes (MN)](#3)
 
-[Photographic Vocabulary Aid](http://web.archive.org/web/20060811045656/http://web.mit.edu/21f.500/www/vocab-photo/index.html)
+{{% resource_link "2892f75b-7564-47dd-a24f-9b9d1eab388a" "Photographic Vocabulary Aid" %}}
 
 {{< anchor "1" >}}{{< /anchor >}}Polite Requests
 ------------------------------------------------
@@ -218,7 +218,7 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 
 {{< tableclose >}}
 
-[Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
+{{% resource_link "bd5e6349-c5d0-448c-8cd3-df7db83597d1" "Photographic Vocabulary Aid: Main" %}}
 
   
  

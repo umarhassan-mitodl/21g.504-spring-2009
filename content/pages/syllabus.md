@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   required texts, objectives and procedures, evaluation, online supplementary materials
   and resources, and audio/visual materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -181,5 +179,5 @@ Supplementary course materials and other resources are available on the course s
 {{< anchor "Audio/Visual_Materials" >}}{{< /anchor >}}Audio/Visual Materials
 ----------------------------------------------------------------------------
 
-*   When you practice assigned Drills and Core Conversations, we encourage you to utilize the [Digital Language Lab](http://languagelab.it.ohio-state.edu/) at Ohio State University for the video clips of Core Conversations, and audio of the Drills and Eavesdropping sections in _Japanese: the Spoken Language_.
-*   You can listen to the audio, record your own voice, and compare with the model by downloading a [DLRecorder](http://projects.oscelot.org/gf/project/dlrecorder/).
+*   When you practice assigned Drills and Core Conversations, we encourage you to utilize the {{% resource_link "d0ab6142-6f3b-46ba-8318-7f245fad854d" "Digital Language Lab" %}} at Ohio State University for the video clips of Core Conversations, and audio of the Drills and Eavesdropping sections in _Japanese: the Spoken Language_.
+*   You can listen to the audio, record your own voice, and compare with the model by downloading a {{% resource_link "39dabc01-b34f-4603-8c1a-01c2da4cdb71" "DLRecorder" %}}.

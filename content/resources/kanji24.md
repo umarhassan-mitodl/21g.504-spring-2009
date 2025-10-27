@@ -4,8 +4,6 @@ description: 'Photograph of a kanji character accompanying a lesson on Japanese.
 file: /courses/21g-504-japanese-iv-spring-2009/5665b9c75bd8cd5143c0970283f88e11_Kanji24.gif
 file_size: 17444
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

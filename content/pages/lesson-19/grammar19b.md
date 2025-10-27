@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 19
@@ -173,7 +171,7 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 
 {{< tableclose >}}
 
-[Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
+{{% resource_link "bd5e6349-c5d0-448c-8cd3-df7db83597d1" "Photographic Vocabulary Aid: Main" %}}
 
 \[{{% resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Grammar 19A" %}} | Grammar 19B\]
 

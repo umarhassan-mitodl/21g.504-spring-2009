@@ -26,7 +26,7 @@ Click on the audio file after each reading to hear an audio recording of the pro
     
     {{< resource 9e76fbaf-25d2-7100-588b-3c6b6a83131f >}}
     
-    Image courtesy of [mphoenix](http://www.flickr.com/photos/mphoenix/3229399698/) on Flickr.
+    Image courtesy of {{% resource_link "d8d04c3b-ca47-492b-8c11-5c14b5ce681d" "mphoenix" %}} on Flickr.
     
 5.  ドイツに来てからもう三年になる。このごろほとんど日本語を使わないので漢字を忘れてしまっている。先週ひさしぶりに母に電話をかけたが、耳が少し遠くなっていたのでびっくりした。医学の研究や外科でのインターンの仕事もおもしろいが、なるべく早く日本に帰って両親の病院を手伝ってあげたい。 ({{% resource_link 7bf0e276-f705-2e24-1501-0f96e7ddd7dc "MP3" %}})
     
